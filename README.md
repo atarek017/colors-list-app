@@ -1,6 +1,13 @@
-# tes1
+# Colors List App
 
-A new Flutter project.
+Colors List App using Flutter.
+
+use in it :
+  1)StatefulWidget and StatelesWidget
+  2)listView
+  3)Image , Text and FloatingActionButton 
+  4)read data from api :- http://jsonplaceholder.typicode.com/photos/
+
 
 ## Getting Started
 
